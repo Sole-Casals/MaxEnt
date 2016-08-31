@@ -15,5 +15,5 @@ You can play with the order of the polynomes (N), the length of the
 signals (T), the matrix (A), etc. Other parameters can be tunned into the
 corresponding functions.
 
-J. Sole-Casals, K. López-de-Ipiña, C. Caiafa
+J. Solé-Casals, K. López-de-Ipiña, C. Caiafa
 August, 2016

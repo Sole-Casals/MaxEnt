@@ -2,7 +2,8 @@
 Maximization of Entropy
 
 This is the main file of the algorithm presented in the paper
-"Inverting Monotonic Nonlinearities by Entropy Maximization".
+Solé-Casals J, López-de-Ipiña Pena K, Caiafa CF (2016) Inverting Monotonic Nonlinearities by Entropy Maximization. PLoS ONE 11(10): e0165288. https://doi.org/10.1371/journal.pone.0165288
+
 You can play with it by generating some PNL mixtures and invert the
 nonlinear distortion through MaxEnt, Gaussianization and Uniformization
 algorithms.
@@ -17,3 +18,5 @@ corresponding functions.
 
 J. Solé-Casals, K. López-de-Ipiña, C. Caiafa
 August, 2016
+
+Please, cite our paper if you use our code!
